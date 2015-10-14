@@ -1,0 +1,17 @@
+{
+    "name": "sfp.erd-extension",
+    "title": "StarUML ERD Extension",
+    "description": "ERD Diagram functionality extension plugin.",
+    "homepage": "https://github.com/stefanhaan/StarUML-ERD_Expansion",
+    "version": "0.2.0",
+    "keywords": ["staruml", "erd"],
+    "author": {
+        "name": "Stefan Haneveer",
+        "email": "s.haneveer93@gmail.com",
+        "url": "https://github.com/stefanhaan"
+    },
+    "license": "MIT",
+    "engines": {
+        "staruml": ">=2.0.0"
+    }
+}
